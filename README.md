@@ -10,7 +10,7 @@ canteen_scraper | scrapes the feedback form of my college's canteen's food order
 doko_scraper | scrapes the profile of students from my college's page. |
 moodle_assignments_scraper | scrapes assignment's information from Moodle. (Coded in Google Script) |
 rotowire | scrapes Daily Fantasy Value Report from Rotowire.com |
-
+download_books | login to depositfiles (with premium account) & then download ebooks from freelibros.org one by one. |
 
 
 Note: I am a beginner in python. 
